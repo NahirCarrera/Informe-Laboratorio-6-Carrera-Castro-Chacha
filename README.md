@@ -16,7 +16,7 @@
 ## 2. Marco Teórico
   ## <p align=center> Materiales
 
-  ## <p align=center> Teorema de Thevenin
+  ## <p align=center> Teorema de máxima transferencia de potencia
 
 ## 3. Explicación del Procedimiento
    ## Materiales
@@ -42,15 +42,15 @@
 2) Medir el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anotar los resultados medidos.
 
  
-_Ilustración 2. Medición de voltaje en resistor R5_
+_Ilustración 2. Medición _
 
  
-_Ilustración 3. Medición de corriente en resistor R5_
+_Ilustración 3. Medición _
     
 3) Calcular las potencia consumida por RL, para cada valor dado y anotar los resultados en la tabla 6.1.
 
  
-_Ilustración 4. Medición de voltaje de Thevenin en circuito abierto sin resistor R5_
+_Ilustración 4. Medición _
  
    
 ## Cálculos de Respaldo
