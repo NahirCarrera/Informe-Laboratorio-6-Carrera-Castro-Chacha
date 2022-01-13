@@ -57,9 +57,10 @@ _Ilustración 4. Medición _
    
 ## Cálculos de Respaldo
   ### 1. Cálculo de potencia para cada valor de RL
-![image](https://user-images.githubusercontent.com/93786746/149419258-1a83021a-095e-4ddb-91ea-bc38eab9fc24.png)
-![image](https://user-images.githubusercontent.com/93786746/149419444-79e81e8a-c814-4171-9fa7-5c64958d5feb.png)
-![image](https://user-images.githubusercontent.com/93786746/149419474-32581d58-b833-427c-82cf-09d329719c84.png)
+![image](https://user-images.githubusercontent.com/93786746/149421253-d4fb1187-5b98-4cd8-a388-ee1b37b5b018.png)
+![image](https://user-images.githubusercontent.com/93786746/149421280-47f0daaf-4de2-40c6-820a-74e1f2ef6652.png)
+![image](https://user-images.githubusercontent.com/93786746/149421314-ceb4bfc3-9be2-4119-93f1-a931dc055bbf.png)
+
 
 ## 4. Tabulación de datos y cálculo de error
     
