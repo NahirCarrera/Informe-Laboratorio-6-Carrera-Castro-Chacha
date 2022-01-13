@@ -17,6 +17,7 @@
   ## <p align=center> Materiales
 
   ## <p align=center> Teorema de máxima transferencia de potencia
+![transferencia de potencia](https://user-images.githubusercontent.com/93786746/149411430-9800541a-0e6f-4a7d-9410-0c1f3a6875b7.png)
 
 ## 3. Explicación del Procedimiento
    ## Materiales
@@ -35,6 +36,7 @@
  * 1 Protoboard
 ## Procedimiento
 1) Armar el circuito que se muestra en la Figura 6.1.
+    
 ![image](https://user-images.githubusercontent.com/93786746/149048763-086650ce-1303-4d9c-882a-11b19a3ff83a.png)
 
  _Ilustración 1. Circuito armado en Laboratotior virtual Tinkercad_
