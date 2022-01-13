@@ -10,9 +10,9 @@
   ### General: 
   * Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
   ### Específicos
-  * 
-  * 
-  * 
+  * Identificar instrumentos para prácticas de laboratorio, su utilización e implementación en circuitos por medio del laboratorio virtual DCAC. 
+  * Aplicar conocimientos teóricos sobre teorema de máxima transferencia de potencia en situaciones prácticas para la toma de datos respaldadas por cálculos con el fin de realizar el cálculo de error.
+  * Registrar el procedimiento de la práctica haciendo uso de medios audiovisuales para tener respaldo de la realización de la actividad correspondiente al laboratorio.
 ## 2. Marco Teórico
   ## <p align=center> Materiales
 
