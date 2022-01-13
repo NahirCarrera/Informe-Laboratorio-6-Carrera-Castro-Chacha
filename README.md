@@ -38,23 +38,52 @@
 1) Armar el circuito que se muestra en la Figura 6.1.
     
 ![image](https://user-images.githubusercontent.com/93786746/149048763-086650ce-1303-4d9c-882a-11b19a3ff83a.png)
-
- _Ilustración 1. Circuito armado en Laboratotior virtual Tinkercad_
     
 2) Medir el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anotar los resultados medidos.
 
- 
-_Ilustración 2. Medición _
-
- 
-_Ilustración 3. Medición _
-    
 3) Calcular las potencia consumida por RL, para cada valor dado y anotar los resultados en la tabla 6.1.
+    
+![image](https://user-images.githubusercontent.com/93786746/149423858-6379a099-885d-4f69-a947-ff55086d1920.png)
 
+_Ilustración 1.Implementación del circuito con RL 220 ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_
+
+![image](https://user-images.githubusercontent.com/93786746/149424014-1a16f227-e229-48a8-8a1a-d8a100b8fbdc.png)
+
+_Ilustración 2. Implementación del circuito con RL 470 ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_
+    
+![image](https://user-images.githubusercontent.com/93786746/149424066-735dcaf5-cf8e-4155-b8de-5e3354d4a6f5.png)
+
+    
+_Ilustración 3. Implementación del circuito con RL 680 ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_
+    
+![image](https://user-images.githubusercontent.com/93786746/149424129-8223df71-1916-4a29-be83-2a136fa0e09c.png)
+         
+_Ilustración 4. Implementación del circuito con RL 820 ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_    
+    
+![image](https://user-images.githubusercontent.com/93786746/149424162-17c88f4c-261d-4f22-a83d-dae9bcdb64bd.png)
+
+_Ilustración 5. Implementación del circuito con RL 1 k ohmio en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_ 
+
+![image](https://user-images.githubusercontent.com/93786746/149424232-64c97c6e-6359-4b9a-afb7-22222b708dd7.png)
+    
+_Ilustración 6. Implementación del circuito con RL 1.5 k ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_
+    
+![image](https://user-images.githubusercontent.com/93786746/149424341-07e9ffbf-7f4f-48e7-a10f-2613746080d4.png)
+
+_Ilustración 7. Implementación del circuito con RL 1.8 k ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_    
  
-_Ilustración 4. Medición _
- 
-   
+![image](https://user-images.githubusercontent.com/93786746/149424425-ce5644e3-8aa2-4e52-a404-8152649541a6.png)
+
+_Ilustración 8. Implementación del circuito con RL 2.2 k ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_ 
+    
+![image](https://user-images.githubusercontent.com/93786746/149424465-30fb24f2-7f47-4bf7-8f69-ff32a1ba4bb9.png)
+
+_Ilustración 9. Implementación del circuito con RL 3.9 k ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_ 
+    
+![image](https://user-images.githubusercontent.com/93786746/149424508-80ec0f33-c08d-40e9-a18a-1adf8c1a3d74.png)
+
+_Ilustración 10. Implementación del circuito con RL 4.7 k ohmios en laboratorio virtual DCAClab y medición de voltaje, corriente y potencia en RL_     
+    
 ## Cálculos de Respaldo
   ### 1. Cálculo de potencia para cada valor de RL
 ![image](https://user-images.githubusercontent.com/93786746/149421253-d4fb1187-5b98-4cd8-a388-ee1b37b5b018.png)
