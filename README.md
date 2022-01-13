@@ -90,8 +90,8 @@ _Ilustración 10. Implementación del circuito con RL 4.7 k ohmios en laboratori
 ![image](https://user-images.githubusercontent.com/93786746/149421280-47f0daaf-4de2-40c6-820a-74e1f2ef6652.png)
 ![image](https://user-images.githubusercontent.com/93786746/149421314-ceb4bfc3-9be2-4119-93f1-a931dc055bbf.png)
 ![Calculos 1 y 2](https://user-images.githubusercontent.com/93829976/149425717-fd816249-3df9-4dc2-8fdb-19646acdcbb3.png)
-![Calculos 3 y 4](https://user-images.githubusercontent.com/93829976/149425726-1e24426f-441b-4f00-af83-36f68af6141c.png)
-![Calculos 5](https://user-images.githubusercontent.com/93829976/149425730-e6995a88-32c7-4e1e-96f6-ea6cc6778c3b.png)
+![Calculos 3 y 4](https://user-images.githubusercontent.com/93829976/149426591-ffd07f89-154d-4aed-bb9e-2eae64439d5f.png)
+![Calculos 5](https://user-images.githubusercontent.com/93829976/149426600-057e9e28-1c85-417e-82eb-7bfab522120a.png)
     
 ## 4. Tabulación de datos y cálculo de error
     
