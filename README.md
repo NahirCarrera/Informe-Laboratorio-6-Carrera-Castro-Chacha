@@ -125,12 +125,12 @@ La potencia máxima tranferida de todas las resistencias añadidas al circuito i
 
 5.3 ¿Para qué valor de RL se obtiene la MTP?
 
-La Máxima transferencia de potencia de entre todas las resistencias conectadas de forma individual se dió en la resistencia de 100 ohmios.
+La Máxima transferencia de potencia de entre todas las resistencias conectadas de forma individual se dió en la resistencia de 1000 ohmios.
 
 ## 6. Video
   * 
 ## 7. Conclusiones
-  * 
+  * Finalmente, el teorema de transferencia de potencia máxima se pudo demostrar usando varias resistencias con valores de resistencia distintos y con ayuda de instrumentos de medición como multímetros para el cálculo de corriente y de voltaje en la resitencia L y también un vatímetro que calcula la potencia directamente, este teorema dice que la máxima transferencia de potencia se dará cuando el valor de la resistencia a analizar sea igual o lo más cercano a la resistencia interna de la fuente; para la presente práctica se obtuvieron resultados de los cuales se puede deducir que la potencia va reduciendo su valor cuando la resistencia L vaya alejándose de la resistencia de la fuente.    
   * 
 ## 8. Bibliografía
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
