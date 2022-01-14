@@ -114,10 +114,17 @@ _Tabla 6.4 Cálculo de error con respecto a la Potencia_
     
 ![image](https://user-images.githubusercontent.com/93829962/149428383-df96816c-8a4b-49ba-b90e-f336b653f3e8.png)
 
-## 5. Video
+## 5. Respuesta a interrogantes
+5.1 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta  
+Si se cumple, debido a que la MTP se da cuando los valores de la resistrencia de la fuente y la resistencia a analizar son cercanos en este caso cuando RL es igual a 1000 ohmios que es el valor más cercano a la resistencia Rs de la fuente que es 1200 ohmios, pues exite una diferencia de 200 ohmios cuando la siguiente más cercana es de 1500 ohmios y su diferencia es 300 ohmios con la RS entonces existe mayor transferencia de potencia en el primer caso que es de 0.048 Watts  en comparación del segundo caso que es de 0.046 Watts. Cabe recalcar que si se conectara una resistencia de 1200 ohmios se daría la máxima transferencia de potencia.    
+5.2 ¿Cuál fue la potencia máxima en RL? 
+La potencia máxima tranferida de todas las resistencias añadidas al circuito individualmente es de 0.048 Watts.    
+5.3 ¿Para qué valor de RL se obtiene la MTP?
+La Máxima transferencia de potencia de entre todas las resistencias conectadas de forma individual se dió en la resistencia de 100 ohmios.
+## 6. Video
   * 
-## 6. Conclusiones
+## 7. Conclusiones
   * 
   * 
-## 7. Bibliografía
+## 8. Bibliografía
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
