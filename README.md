@@ -128,7 +128,7 @@ La potencia máxima tranferida de todas las resistencias añadidas al circuito i
 La Máxima transferencia de potencia de entre todas las resistencias conectadas de forma individual se dió en la resistencia de 1000 ohmios.
 
 ## 6. Video
-  * 
+  * https://www.youtube.com/watch?v=34knewRjsCs
 ## 7. Conclusiones
   * Finalmente, el teorema de transferencia de potencia máxima se pudo demostrar usando varias resistencias con valores de resistencia distintos y con ayuda de instrumentos de medición como multímetros para el cálculo de corriente y de voltaje en la resitencia L y también un vatímetro que calcula la potencia directamente, este teorema dice que la máxima transferencia de potencia se dará cuando el valor de la resistencia a analizar sea igual o lo más cercano a la resistencia interna de la fuente; para la presente práctica se obtuvieron resultados de los cuales se puede deducir que la potencia va reduciendo su valor cuando la resistencia L vaya alejándose de la resistencia de la fuente.    
   * La aplicación del teorema de trasferencia de potencia máxima está en diversos campos de la tecnología, pero en especial se usa para sistemas de audio, siendo estos: bocinas, parlantes, radios, sistemas de alocución pública, entre otras. Es importante puesto que para que un altavoz alcance su máxima potencia, la resistencia de estos deben ser iguales a la resistencia que existe en la fuente, ya que de este modo se cumple con el teorema de transferencia de potencia máxima, haciendo que se use todo el potencial de un componente electrónico y optimizando sus usos.
