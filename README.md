@@ -97,22 +97,19 @@ _Ilustración 10. Implementación del circuito con RL 4.7 k ohmios en laboratori
     
 ## Tabulación de datos
     
-_Tabla 6.1 _
-    
-
-
-_Tabla 6.2 _
-    
-
+_Tabla 6.1 Parámetros Eléctricos del circuito de la figura 6.1_
+![image](https://user-images.githubusercontent.com/93829962/149428215-3d8b3119-a4ce-481b-83a4-e66a8cc4189f.png)
  
 ## Error
 
-_Tabla 6.3 Cálculo de error _
+_Tabla 6.2 Cálculo de error con respecto a la corriente_
+![image](https://user-images.githubusercontent.com/93829962/149428353-1cee6822-9aa1-4cea-acb0-9b1edb14fae3.png)
 
+_Tabla 6.3 Cálculo de error con respecto al voltaje_
+![image](https://user-images.githubusercontent.com/93829962/149428365-c1e8b2ee-a0b6-44b2-aa86-dbd07fb93021.png)
 
-
-_Tabla 6.4 Cálculo de error _
-    
+_Tabla 6.4 Cálculo de error con respecto a la Potencia_
+![image](https://user-images.githubusercontent.com/93829962/149428383-df96816c-8a4b-49ba-b90e-f336b653f3e8.png)
 
 ## 5. Video
   * 
