@@ -15,7 +15,7 @@
   * Registrar el procedimiento de la práctica haciendo uso de medios audiovisuales para tener respaldo de la realización de la actividad correspondiente al laboratorio.
 ## 2. Marco Teórico
   ## <p align=center> Materiales
-
+![Materiales LAB 6](https://user-images.githubusercontent.com/93829976/149430189-73211977-0f34-42f9-b7ac-9e522dab8f08.jpeg)
   ## <p align=center> Teorema de máxima transferencia de potencia
 ![transferencia de potencia](https://user-images.githubusercontent.com/93786746/149411430-9800541a-0e6f-4a7d-9410-0c1f3a6875b7.png)
 
